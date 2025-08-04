@@ -18,7 +18,9 @@ It allows admins and users to submit, manage, and track enquiries efficiently in
 📦 Basic session management & form validations
 🗃️ MySQL DB integration using JDBC
 
-🏗️ Technologies Used:
+---
+
+## 🏗️ Technologies Used:
 
 ☕ Java (Core)
 🧩 JSP & Servlets
@@ -26,18 +28,24 @@ It allows admins and users to submit, manage, and track enquiries efficiently in
 🔥 Apache Tomcat (Server)
 🐬 MySQL
 
-📁 Folder Structure:
+---
+
+## 📁 Folder Structure:
 
 /src → Java Servlet & utility classes
 
 /WebContent → JSP files and static resources
 
-📌 Notes:
+---
+
+## 📌 Notes:
 
 ⚠️ Use the correct JDBC driver for MySQL
 🛡️ Designed for learning/demo purposes — further improvements needed for production (e.g., advanced validations & security)
 
-🧑‍💻 Author:
+---
+
+## 🧑‍💻 Author:
 
 Shahabaj Shaikh
 📧 shahabaj.connect@gmail.com
