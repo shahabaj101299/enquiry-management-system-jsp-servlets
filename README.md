@@ -1,61 +1,41 @@
-**📋 Enquiry Management System (JSP & Servlets)**
+📋 Enquiry Management System (JSP & Servlets)
+📄 Description:
 
-**📄 Description :**
+I recently built a web-based Enquiry Management System using Java, JSP, Servlets, and JDBC.
 
-This is a web-based Enquiry Management System built using Java, JSP, Servlets, JDBC.
+It allows admins and users to submit, manage, and track enquiries efficiently in an organization or institution — perfect for academic or training environments.
 
-It allows admins and users to manage, submit, track, and respond to enquiries efficiently in an organization or institution.
-
-
-🛠️ **Features :**
+🛠️ Features:
 
 🔐 Admin login and dashboard
-
 📥 Add, view, and delete enquiries
+📝 Public-facing user enquiry form
+🆔 Auto-generated enquiry IDs
+👁️ View enquiry status anytime
+📦 Basic session management & form validations
+🗃️ MySQL DB integration using JDBC
 
-📝 User enquiry form (public-facing)
-
-🆔 Auto-generated Enquiry IDs
-
-👁️ View enquiry status
-
-🧩 Basic session handling and form validations
-
-🗃️ Database integration using JDBC (MySQL)
-
-
-**🏗️ Technologies Used :**
+🏗️ Technologies Used:
 
 ☕ Java (Core)
-
 🧩 JSP & Servlets
-
 🔗 JDBC
-
 🔥 Apache Tomcat (Server)
-
 🐬 MySQL
 
-
-
-**📁 Folder Structure :**
+📁 Folder Structure:
 
 /src → Java Servlet & utility classes
 
-/WebContent → JSP files
+/WebContent → JSP files and static resources
 
+📌 Notes:
 
-**📌 Notes :**
+⚠️ Use the correct JDBC driver for MySQL
+🛡️ Designed for learning/demo purposes — further improvements needed for production (e.g., advanced validations & security)
 
-⚠️ Use appropriate JDBC driver for your database.
+🧑‍💻 Author:
 
-🛡️ Designed for basic academic or learning use — security and validations can be improved for production.
-
-
-**🧑‍💻 Author :**
-
-Name: Shahabaj Shaikh
-
-Email: shahabaj.connect@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/shahabaj101299/
+Shahabaj Shaikh
+📧 shahabaj.connect@gmail.com
+🔗 LinkedIn Profile : https://www.linkedin.com/in/shahabaj101299/
