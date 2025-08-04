@@ -1,11 +1,14 @@
-📋 Enquiry Management System (JSP & Servlets)
+# 📋 Enquiry Management System (JSP & Servlets)
+
 📄 Description:
 
 I recently built a web-based Enquiry Management System using Java, JSP, Servlets, and JDBC.
 
 It allows admins and users to submit, manage, and track enquiries efficiently in an organization or institution — perfect for academic or training environments.
 
-🛠️ Features:
+---
+
+## 🛠️ Features:
 
 🔐 Admin login and dashboard
 📥 Add, view, and delete enquiries
